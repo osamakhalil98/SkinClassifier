@@ -1,8 +1,9 @@
-# TensorFlow.js Example: Using an Azure Custom Vision model to detect tuberculosis in a web browser
+# Node.js web application to detect skin cancer by providing the probabilities of 7 types of skin cancer with - powered by TensorFlow.js  
 
-This example shows you how to use a Machine Learning, which was created with the [Microsoft Azure Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/) service, in a web browser application.
+If you're a doctor and need a decision support system that can help you classify your patients skin cancer then SkinClassifier is for you.
 
-The [Tuberculosis X-Ray images](https://www.kaggle.com/kmader/pulmonary-chest-xray-abnormalities) used in this example, are from the Kaggle website and are not published with this repository.
+We use artifical neural network to help you make a decision Due to the high performance of the artificial neural networks, they are known as proper solutions of several complex problems in image processing and machine vision.
+
 
 Prepare the node environments:
 ```sh
