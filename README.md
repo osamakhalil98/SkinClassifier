@@ -1,4 +1,4 @@
-# Node.js web application to detect skin cancer by providing the probabilities of 7 types of skin cancer with - powered by TensorFlow.js  
+# Node.js web application to detect skin cancer by providing the probabilities of 7 types of skin cancer. - powered by TensorFlow.js  
 
 If you're a doctor and need a decision support system that can help you classify your patients skin cancer then SkinClassifier is for you.
 
